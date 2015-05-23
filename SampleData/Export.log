@@ -1,0 +1,574 @@
+Test 5
+55600d72*
+ProductName: DCS
+FileVersion: 1.2.16.39472
+ProductVersion: 1.2.16.39472
+t = 0.00 Pilot Alt = 0.000000 LatLong = 41.927704 41.850941 Hdg= 70.005170 tas= 0.000000 <xxx>
+t = 0.00, ID = 16777984, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198411, 41.639474, 0.000000), Hdg = 4.601732 <xxx>
+t = 0.00, ID = 16845056, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.930578, 41.871684, 18.000000), Hdg = 1.118642 <xxx>
+t = 0.00, ID = 16847104, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926616, 41.859381, 21.394918), Hdg = 2.896614 <xxx>
+t = 0.00, ID = 16784128, name = T-55, country = 0(Allies), LatLongAlt = (42.202847, 41.938895, 10.218915), Hdg = 2.429236 <xxx>
+t = 0.00, ID = 16786176, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170696, 42.119468, 12.711155), Hdg = 0.000000 <xxx>
+t = 0.00, ID = 16788224, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165071, 42.129674, 14.727321), Hdg = 1.127347 <xxx>
+t = 0.00, ID = 16826880, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118795, 42.259645, 31.203133), Hdg = 4.601722 <xxx>
+t = 0.00, ID = 16828928, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117870, 42.261249, 32.021378), Hdg = 0.000000 <xxx>
+t = 0.00, ID = 16830976, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118999, 42.260955, 31.209557), Hdg = 5.539416 <xxx>
+t = 0.00, ID = 16778240, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198369, 41.648145, 0.000000), Hdg = 1.430871 <xxx>
+t = 0.00, ID = 16845312, name = Hummer, country = 2(Enemies), LatLongAlt = (41.932250, 41.860363, 18.000000), Hdg = 3.941483 <xxx>
+t = 0.00, ID = 16782336, name = T-55, country = 0(Allies), LatLongAlt = (42.206067, 41.915878, 10.013263), Hdg = 2.429235 <xxx>
+t = 0.00, ID = 16784384, name = T-55, country = 0(Allies), LatLongAlt = (42.200492, 41.914534, 9.302426), Hdg = 2.429236 <xxx>
+t = 0.00, ID = 16786432, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168893, 42.115994, 13.227118), Hdg = 4.380589 <xxx>
+t = 0.00, ID = 16788480, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166972, 42.119757, 13.854740), Hdg = 4.622541 <xxx>
+t = 0.00, ID = 16827136, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118012, 42.259882, 31.769497), Hdg = 1.556701 <xxx>
+t = 0.00, ID = 16829184, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117951, 42.261261, 31.966583), Hdg = 0.000000 <xxx>
+t = 0.00, ID = 16845568, name = Hummer, country = 2(Enemies), LatLongAlt = (41.926617, 41.859333, 18.000000), Hdg = 6.118037 <xxx>
+t = 0.00, ID = 16782592, name = T-55, country = 0(Allies), LatLongAlt = (42.202709, 41.907555, 8.650128), Hdg = 2.429236 <xxx>
+t = 0.00, ID = 16784640, name = T-55, country = 0(Allies), LatLongAlt = (42.200676, 41.915459, 9.459134), Hdg = 2.429236 <xxx>
+t = 0.00, ID = 16786688, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164717, 42.118705, 14.373638), Hdg = 4.119875 <xxx>
+t = 0.00, ID = 16788736, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169443, 42.123881, 13.453124), Hdg = 6.103332 <xxx>
+t = 0.00, ID = 16827392, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118004, 42.260012, 31.789713), Hdg = 1.531332 <xxx>
+t = 0.00, ID = 16829440, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117784, 42.261232, 32.078907), Hdg = 0.000000 <xxx>
+t = 0.00, ID = 16845824, name = Hummer, country = 2(Enemies), LatLongAlt = (41.927461, 41.863838, 18.000000), Hdg = 2.169215 <xxx>
+t = 0.00, ID = 16782848, name = T-55, country = 0(Allies), LatLongAlt = (42.203069, 41.901314, 7.802643), Hdg = 2.429235 <xxx>
+t = 0.00, ID = 16784896, name = T-55, country = 0(Allies), LatLongAlt = (42.201294, 41.916100, 9.641173), Hdg = 2.429236 <xxx>
+t = 0.00, ID = 16786944, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170816, 42.115408, 12.576155), Hdg = 5.221457 <xxx>
+t = 0.00, ID = 16788992, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165324, 42.122040, 14.345192), Hdg = 3.517234 <xxx>
+t = 0.00, ID = 16827648, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117994, 42.260131, 31.809847), Hdg = 1.557272 <xxx>
+t = 0.00, ID = 16829696, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117885, 42.261092, 31.993139), Hdg = 0.000000 <xxx>
+t = 0.00, ID = 16846080, name = M-113, country = 2(Enemies), LatLongAlt = (41.924183, 41.864190, 18.000000), Hdg = 6.235603 <xxx>
+t = 0.00, ID = 16783104, name = T-55, country = 0(Allies), LatLongAlt = (42.205307, 41.911795, 9.593053), Hdg = 2.429236 <xxx>
+t = 0.00, ID = 16785152, name = T-55, country = 0(Allies), LatLongAlt = (42.201111, 41.914173, 9.344171), Hdg = 2.429236 <xxx>
+t = 0.00, ID = 16787200, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166554, 42.137454, 14.720903), Hdg = 1.603571 <xxx>
+t = 0.00, ID = 16789248, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.167797, 42.132211, 14.450558), Hdg = 0.849824 <xxx>
+t = 0.00, ID = 16827904, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117982, 42.260257, 31.832798), Hdg = 1.502399 <xxx>
+t = 0.00, ID = 16829952, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117964, 42.261103, 31.940029), Hdg = 0.000000 <xxx>
+t = 0.00, ID = 16846336, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926595, 41.859385, 18.000000), Hdg = 0.945311 <xxx>
+t = 0.00, ID = 16783360, name = T-55, country = 0(Allies), LatLongAlt = (42.201471, 41.915157, 9.534965), Hdg = 2.429236 <xxx>
+t = 0.00, ID = 16785408, name = T-55, country = 0(Allies), LatLongAlt = (42.197499, 41.918604, 9.303934), Hdg = 2.429236 <xxx>
+t = 0.00, ID = 16787456, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169272, 42.129212, 14.004634), Hdg = 0.555493 <xxx>
+t = 0.00, ID = 16789504, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166116, 42.124021, 14.192931), Hdg = 3.194176 <xxx>
+t = 0.00, ID = 16826112, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118830, 42.259246, 31.134121), Hdg = 4.757800 <xxx>
+t = 0.00, ID = 16828160, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118345, 42.261132, 31.680798), Hdg = 0.000000 <xxx>
+t = 0.00, ID = 16830208, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117796, 42.261079, 32.052982), Hdg = 0.000000 <xxx>
+t = 0.00, ID = 16777472, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.203538, 41.637619, 0.000000), Hdg = 6.283185 <xxx>
+t = 0.00, ID = 16846592, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.932143, 41.860482, 18.000000), Hdg = 3.141593 <xxx>
+t = 0.00, ID = 16783616, name = T-55, country = 0(Allies), LatLongAlt = (42.200759, 41.916370, 9.600081), Hdg = 2.429236 <xxx>
+t = 0.00, ID = 16785664, name = T-55, country = 0(Allies), LatLongAlt = (42.203574, 41.923407, 9.400670), Hdg = 2.429235 <xxx>
+t = 0.00, ID = 16787712, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170549, 42.127393, 13.744644), Hdg = 6.283185 <xxx>
+t = 0.00, ID = 16789760, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168361, 42.121341, 13.506642), Hdg = 5.210209 <xxx>
+t = 0.00, ID = 16826368, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118815, 42.259392, 31.160471), Hdg = 4.702669 <xxx>
+t = 0.00, ID = 16828416, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118456, 42.261148, 31.605621), Hdg = 0.000000 <xxx>
+t = 0.00, ID = 16830464, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118905, 42.261076, 31.288433), Hdg = 5.304801 <xxx>
+t = 0.00, ID = 16777728, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.192134, 41.640548, 0.000000), Hdg = 2.424271 <xxx>
+t = 0.00, ID = 16844800, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.928653, 41.851486, 18.000000), Hdg = 5.050713 <xxx>
+t = 0.00, ID = 16846848, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926609, 41.859408, 18.000000), Hdg = 4.670746 <xxx>
+t = 0.00, ID = 16783872, name = T-55, country = 0(Allies), LatLongAlt = (42.203706, 41.918447, 10.146554), Hdg = 2.429235 <xxx>
+t = 0.00, ID = 16785920, name = T-55, country = 0(Allies), LatLongAlt = (42.195367, 41.921551, 8.241483), Hdg = 2.429234 <xxx>
+t = 0.00, ID = 16787968, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164347, 42.132297, 15.099614), Hdg = 2.553587 <xxx>
+t = 0.00, ID = 16826624, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118802, 42.259521, 31.184052), Hdg = 4.622300 <xxx>
+t = 0.00, ID = 16828672, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.118858, 42.261138, 31.327188), Hdg = 5.280478 <xxx>
+t = 0.00, ID = 16830720, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118956, 42.261007, 31.245054), Hdg = 5.437240 <xxx>
+t = 0.00, ID = 16848640, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927465, 41.850750, 20.387085), Hdg = 1.221731 <xxx>
+t = 0.00, ID = 16848384, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927704, 41.850941, 20.387085), Hdg = 1.221731 <xxx>
+t = 0.00, ID = 16848128, name = M 818, country = 2(Enemies), LatLongAlt = (41.927187, 41.858850, 18.000000), Hdg = 6.143559 <xxx>
+t = 0.00, ID = 16847872, name = M978 HEMTT Tanker, country = 2(Enemies), LatLongAlt = (41.927109, 41.858076, 18.000000), Hdg = 6.143559 <xxx>
+t = 0.00, ID = 16847616, name = HEMTT TFFT, country = 2(Enemies), LatLongAlt = (41.927050, 41.857503, 18.000000), Hdg = 6.143559 <xxx>
+t = 0.00, ID = 16847360, name = M6 Linebacker, country = 2(Enemies), LatLongAlt = (41.930657, 41.859142, 18.000000), Hdg = 4.185446 <xxx>
+t = 2.00 Pilot Alt = 248.921901 LatLong = 41.927703 41.850941 Hdg= 70.168150 tas= 0.034067 <xxx>
+t = 2.00, ID = 16777984, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198411, 41.639474, 0.000000), Hdg = 4.601732 <xxx>
+t = 2.00, ID = 16845056, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.930578, 41.871684, 18.000000), Hdg = 1.118642 <xxx>
+t = 2.00, ID = 16847104, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926616, 41.859381, 21.394918), Hdg = 2.896614 <xxx>
+t = 2.00, ID = 16784128, name = T-55, country = 0(Allies), LatLongAlt = (42.202847, 41.938895, 10.218915), Hdg = 2.429236 <xxx>
+t = 2.00, ID = 16786176, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170696, 42.119468, 12.711155), Hdg = 0.000000 <xxx>
+t = 2.00, ID = 16788224, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165071, 42.129674, 14.727321), Hdg = 1.127347 <xxx>
+t = 2.00, ID = 16826880, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118795, 42.259645, 31.203133), Hdg = 4.601722 <xxx>
+t = 2.00, ID = 16828928, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117870, 42.261249, 32.021378), Hdg = 0.000000 <xxx>
+t = 2.00, ID = 16830976, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118999, 42.260955, 31.209557), Hdg = 5.539416 <xxx>
+t = 2.00, ID = 16778240, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198369, 41.648145, 0.000000), Hdg = 1.430871 <xxx>
+t = 2.00, ID = 16845312, name = Hummer, country = 2(Enemies), LatLongAlt = (41.932250, 41.860363, 18.000000), Hdg = 3.941483 <xxx>
+t = 2.00, ID = 16782336, name = T-55, country = 0(Allies), LatLongAlt = (42.206067, 41.915878, 10.013263), Hdg = 2.429235 <xxx>
+t = 2.00, ID = 16784384, name = T-55, country = 0(Allies), LatLongAlt = (42.200492, 41.914534, 9.302426), Hdg = 2.429236 <xxx>
+t = 2.00, ID = 16786432, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168893, 42.115994, 13.227118), Hdg = 4.380589 <xxx>
+t = 2.00, ID = 16788480, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166972, 42.119757, 13.854740), Hdg = 4.622541 <xxx>
+t = 2.00, ID = 16827136, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118012, 42.259882, 31.769497), Hdg = 1.556701 <xxx>
+t = 2.00, ID = 16829184, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117951, 42.261261, 31.966583), Hdg = 0.000000 <xxx>
+t = 2.00, ID = 16845568, name = Hummer, country = 2(Enemies), LatLongAlt = (41.926617, 41.859333, 18.000000), Hdg = 6.118037 <xxx>
+t = 2.00, ID = 16782592, name = T-55, country = 0(Allies), LatLongAlt = (42.202709, 41.907555, 8.650128), Hdg = 2.429236 <xxx>
+t = 2.00, ID = 16784640, name = T-55, country = 0(Allies), LatLongAlt = (42.200676, 41.915459, 9.459134), Hdg = 2.429236 <xxx>
+t = 2.00, ID = 16786688, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164717, 42.118705, 14.373638), Hdg = 4.119875 <xxx>
+t = 2.00, ID = 16788736, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169443, 42.123881, 13.453124), Hdg = 6.103332 <xxx>
+t = 2.00, ID = 16827392, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118004, 42.260012, 31.789713), Hdg = 1.531332 <xxx>
+t = 2.00, ID = 16829440, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117784, 42.261232, 32.078907), Hdg = 0.000000 <xxx>
+t = 2.00, ID = 16845824, name = Hummer, country = 2(Enemies), LatLongAlt = (41.927461, 41.863838, 18.000000), Hdg = 2.169215 <xxx>
+t = 2.00, ID = 16782848, name = T-55, country = 0(Allies), LatLongAlt = (42.203069, 41.901314, 7.802643), Hdg = 2.429235 <xxx>
+t = 2.00, ID = 16784896, name = T-55, country = 0(Allies), LatLongAlt = (42.201294, 41.916100, 9.641173), Hdg = 2.429236 <xxx>
+t = 2.00, ID = 16786944, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170816, 42.115408, 12.576155), Hdg = 5.221457 <xxx>
+t = 2.00, ID = 16788992, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165324, 42.122040, 14.345192), Hdg = 3.517234 <xxx>
+t = 2.00, ID = 16827648, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117994, 42.260131, 31.809847), Hdg = 1.557272 <xxx>
+t = 2.00, ID = 16829696, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117885, 42.261092, 31.993139), Hdg = 0.000000 <xxx>
+t = 2.00, ID = 16846080, name = M-113, country = 2(Enemies), LatLongAlt = (41.924183, 41.864190, 18.000000), Hdg = 6.235603 <xxx>
+t = 2.00, ID = 16783104, name = T-55, country = 0(Allies), LatLongAlt = (42.205307, 41.911795, 9.593053), Hdg = 2.429236 <xxx>
+t = 2.00, ID = 16785152, name = T-55, country = 0(Allies), LatLongAlt = (42.201111, 41.914173, 9.344171), Hdg = 2.429236 <xxx>
+t = 2.00, ID = 16787200, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166554, 42.137454, 14.720903), Hdg = 1.603571 <xxx>
+t = 2.00, ID = 16789248, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.167797, 42.132211, 14.450558), Hdg = 0.849824 <xxx>
+t = 2.00, ID = 16827904, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117982, 42.260257, 31.832798), Hdg = 1.502399 <xxx>
+t = 2.00, ID = 16829952, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117964, 42.261103, 31.940029), Hdg = 0.000000 <xxx>
+t = 2.00, ID = 16846336, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926595, 41.859385, 18.000000), Hdg = 0.945311 <xxx>
+t = 2.00, ID = 16783360, name = T-55, country = 0(Allies), LatLongAlt = (42.201471, 41.915157, 9.534965), Hdg = 2.429236 <xxx>
+t = 2.00, ID = 16785408, name = T-55, country = 0(Allies), LatLongAlt = (42.197499, 41.918604, 9.303934), Hdg = 2.429236 <xxx>
+t = 2.00, ID = 16787456, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169272, 42.129212, 14.004634), Hdg = 0.555493 <xxx>
+t = 2.00, ID = 16789504, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166116, 42.124021, 14.192931), Hdg = 3.194176 <xxx>
+t = 2.00, ID = 16826112, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118830, 42.259246, 31.134121), Hdg = 4.757800 <xxx>
+t = 2.00, ID = 16828160, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118345, 42.261132, 31.680798), Hdg = 0.000000 <xxx>
+t = 2.00, ID = 16830208, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117796, 42.261079, 32.052982), Hdg = 0.000000 <xxx>
+t = 2.00, ID = 16777472, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.203538, 41.637619, 0.000000), Hdg = 6.283185 <xxx>
+t = 2.00, ID = 16846592, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.932143, 41.860482, 18.000000), Hdg = 3.141593 <xxx>
+t = 2.00, ID = 16783616, name = T-55, country = 0(Allies), LatLongAlt = (42.200759, 41.916370, 9.600081), Hdg = 2.429236 <xxx>
+t = 2.00, ID = 16785664, name = T-55, country = 0(Allies), LatLongAlt = (42.203574, 41.923407, 9.400670), Hdg = 2.429235 <xxx>
+t = 2.00, ID = 16787712, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170549, 42.127393, 13.744644), Hdg = 6.283185 <xxx>
+t = 2.00, ID = 16789760, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168361, 42.121341, 13.506642), Hdg = 5.210209 <xxx>
+t = 2.00, ID = 16826368, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118815, 42.259392, 31.160471), Hdg = 4.702669 <xxx>
+t = 2.00, ID = 16828416, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118456, 42.261148, 31.605621), Hdg = 0.000000 <xxx>
+t = 2.00, ID = 16830464, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118905, 42.261076, 31.288433), Hdg = 5.304801 <xxx>
+t = 2.00, ID = 16777728, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.192134, 41.640548, 0.000000), Hdg = 2.424271 <xxx>
+t = 2.00, ID = 16844800, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.928653, 41.851486, 18.000000), Hdg = 5.050713 <xxx>
+t = 2.00, ID = 16846848, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926609, 41.859408, 18.000000), Hdg = 4.670746 <xxx>
+t = 2.00, ID = 16783872, name = T-55, country = 0(Allies), LatLongAlt = (42.203706, 41.918447, 10.146554), Hdg = 2.429235 <xxx>
+t = 2.00, ID = 16785920, name = T-55, country = 0(Allies), LatLongAlt = (42.195367, 41.921551, 8.241483), Hdg = 2.429234 <xxx>
+t = 2.00, ID = 16787968, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164347, 42.132297, 15.099614), Hdg = 2.553587 <xxx>
+t = 2.00, ID = 16826624, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118802, 42.259521, 31.184052), Hdg = 4.622300 <xxx>
+t = 2.00, ID = 16828672, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.118858, 42.261138, 31.327188), Hdg = 5.280478 <xxx>
+t = 2.00, ID = 16830720, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118956, 42.261007, 31.245054), Hdg = 5.437240 <xxx>
+t = 2.00, ID = 16848640, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927465, 41.850750, 20.387085), Hdg = 1.221731 <xxx>
+t = 2.00, ID = 16848384, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927703, 41.850941, 20.281421), Hdg = 1.224575 <xxx>
+t = 2.00, ID = 16848128, name = M 818, country = 2(Enemies), LatLongAlt = (41.927187, 41.858850, 18.000000), Hdg = 6.143559 <xxx>
+t = 2.00, ID = 16847872, name = M978 HEMTT Tanker, country = 2(Enemies), LatLongAlt = (41.927109, 41.858076, 18.000000), Hdg = 6.143559 <xxx>
+t = 2.00, ID = 16847616, name = HEMTT TFFT, country = 2(Enemies), LatLongAlt = (41.927050, 41.857503, 18.000000), Hdg = 6.143559 <xxx>
+t = 2.00, ID = 16847360, name = M6 Linebacker, country = 2(Enemies), LatLongAlt = (41.930657, 41.859142, 18.000000), Hdg = 4.185446 <xxx>
+t = 4.00 Pilot Alt = 248.921394 LatLong = 41.927703 41.850941 Hdg= 70.164461 tas= 0.004240 <xxx>
+t = 4.00, ID = 16777984, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198411, 41.639474, 0.000000), Hdg = 4.601732 <xxx>
+t = 4.00, ID = 16845056, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.930578, 41.871684, 18.000000), Hdg = 1.118642 <xxx>
+t = 4.00, ID = 16847104, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926616, 41.859381, 21.394918), Hdg = 2.896614 <xxx>
+t = 4.00, ID = 16784128, name = T-55, country = 0(Allies), LatLongAlt = (42.202847, 41.938895, 10.218915), Hdg = 2.429236 <xxx>
+t = 4.00, ID = 16786176, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170696, 42.119468, 12.711155), Hdg = 0.000000 <xxx>
+t = 4.00, ID = 16788224, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165071, 42.129674, 14.727321), Hdg = 1.127347 <xxx>
+t = 4.00, ID = 16826880, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118795, 42.259645, 31.203133), Hdg = 4.601722 <xxx>
+t = 4.00, ID = 16828928, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117870, 42.261249, 32.021378), Hdg = 0.000000 <xxx>
+t = 4.00, ID = 16830976, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118999, 42.260955, 31.209557), Hdg = 5.539416 <xxx>
+t = 4.00, ID = 16778240, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198369, 41.648145, 0.000000), Hdg = 1.430871 <xxx>
+t = 4.00, ID = 16845312, name = Hummer, country = 2(Enemies), LatLongAlt = (41.932250, 41.860363, 18.000000), Hdg = 3.941483 <xxx>
+t = 4.00, ID = 16782336, name = T-55, country = 0(Allies), LatLongAlt = (42.206067, 41.915878, 10.013263), Hdg = 2.429235 <xxx>
+t = 4.00, ID = 16784384, name = T-55, country = 0(Allies), LatLongAlt = (42.200492, 41.914534, 9.302426), Hdg = 2.429236 <xxx>
+t = 4.00, ID = 16786432, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168893, 42.115994, 13.227118), Hdg = 4.380589 <xxx>
+t = 4.00, ID = 16788480, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166972, 42.119757, 13.854740), Hdg = 4.622541 <xxx>
+t = 4.00, ID = 16827136, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118012, 42.259882, 31.769497), Hdg = 1.556701 <xxx>
+t = 4.00, ID = 16829184, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117951, 42.261261, 31.966583), Hdg = 0.000000 <xxx>
+t = 4.00, ID = 16845568, name = Hummer, country = 2(Enemies), LatLongAlt = (41.926617, 41.859333, 18.000000), Hdg = 6.118037 <xxx>
+t = 4.00, ID = 16782592, name = T-55, country = 0(Allies), LatLongAlt = (42.202709, 41.907555, 8.650128), Hdg = 2.429236 <xxx>
+t = 4.00, ID = 16784640, name = T-55, country = 0(Allies), LatLongAlt = (42.200676, 41.915459, 9.459134), Hdg = 2.429236 <xxx>
+t = 4.00, ID = 16786688, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164717, 42.118705, 14.373638), Hdg = 4.119875 <xxx>
+t = 4.00, ID = 16788736, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169443, 42.123881, 13.453124), Hdg = 6.103332 <xxx>
+t = 4.00, ID = 16827392, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118004, 42.260012, 31.789713), Hdg = 1.531332 <xxx>
+t = 4.00, ID = 16829440, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117784, 42.261232, 32.078907), Hdg = 0.000000 <xxx>
+t = 4.00, ID = 16845824, name = Hummer, country = 2(Enemies), LatLongAlt = (41.927461, 41.863838, 18.000000), Hdg = 2.169215 <xxx>
+t = 4.00, ID = 16782848, name = T-55, country = 0(Allies), LatLongAlt = (42.203069, 41.901314, 7.802643), Hdg = 2.429235 <xxx>
+t = 4.00, ID = 16784896, name = T-55, country = 0(Allies), LatLongAlt = (42.201294, 41.916100, 9.641173), Hdg = 2.429236 <xxx>
+t = 4.00, ID = 16786944, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170816, 42.115408, 12.576155), Hdg = 5.221457 <xxx>
+t = 4.00, ID = 16788992, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165324, 42.122040, 14.345192), Hdg = 3.517234 <xxx>
+t = 4.00, ID = 16827648, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117994, 42.260131, 31.809847), Hdg = 1.557272 <xxx>
+t = 4.00, ID = 16829696, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117885, 42.261092, 31.993139), Hdg = 0.000000 <xxx>
+t = 4.00, ID = 16846080, name = M-113, country = 2(Enemies), LatLongAlt = (41.924183, 41.864190, 18.000000), Hdg = 6.235603 <xxx>
+t = 4.00, ID = 16783104, name = T-55, country = 0(Allies), LatLongAlt = (42.205307, 41.911795, 9.593053), Hdg = 2.429236 <xxx>
+t = 4.00, ID = 16785152, name = T-55, country = 0(Allies), LatLongAlt = (42.201111, 41.914173, 9.344171), Hdg = 2.429236 <xxx>
+t = 4.00, ID = 16787200, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166554, 42.137454, 14.720903), Hdg = 1.603571 <xxx>
+t = 4.00, ID = 16789248, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.167797, 42.132211, 14.450558), Hdg = 0.849824 <xxx>
+t = 4.00, ID = 16827904, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117982, 42.260257, 31.832798), Hdg = 1.502399 <xxx>
+t = 4.00, ID = 16829952, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117964, 42.261103, 31.940029), Hdg = 0.000000 <xxx>
+t = 4.00, ID = 16846336, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926595, 41.859385, 18.000000), Hdg = 0.945311 <xxx>
+t = 4.00, ID = 16783360, name = T-55, country = 0(Allies), LatLongAlt = (42.201471, 41.915157, 9.534965), Hdg = 2.429236 <xxx>
+t = 4.00, ID = 16785408, name = T-55, country = 0(Allies), LatLongAlt = (42.197499, 41.918604, 9.303934), Hdg = 2.429236 <xxx>
+t = 4.00, ID = 16787456, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169272, 42.129212, 14.004634), Hdg = 0.555493 <xxx>
+t = 4.00, ID = 16789504, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166116, 42.124021, 14.192931), Hdg = 3.194176 <xxx>
+t = 4.00, ID = 16826112, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118830, 42.259246, 31.134121), Hdg = 4.757800 <xxx>
+t = 4.00, ID = 16828160, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118345, 42.261132, 31.680798), Hdg = 0.000000 <xxx>
+t = 4.00, ID = 16830208, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117796, 42.261079, 32.052982), Hdg = 0.000000 <xxx>
+t = 4.00, ID = 16777472, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.203538, 41.637619, 0.000000), Hdg = 6.283185 <xxx>
+t = 4.00, ID = 16846592, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.932143, 41.860482, 18.000000), Hdg = 3.141593 <xxx>
+t = 4.00, ID = 16783616, name = T-55, country = 0(Allies), LatLongAlt = (42.200759, 41.916370, 9.600081), Hdg = 2.429236 <xxx>
+t = 4.00, ID = 16785664, name = T-55, country = 0(Allies), LatLongAlt = (42.203574, 41.923407, 9.400670), Hdg = 2.429235 <xxx>
+t = 4.00, ID = 16787712, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170549, 42.127393, 13.744644), Hdg = 6.283185 <xxx>
+t = 4.00, ID = 16789760, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168361, 42.121341, 13.506642), Hdg = 5.210209 <xxx>
+t = 4.00, ID = 16826368, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118815, 42.259392, 31.160471), Hdg = 4.702669 <xxx>
+t = 4.00, ID = 16828416, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118456, 42.261148, 31.605621), Hdg = 0.000000 <xxx>
+t = 4.00, ID = 16830464, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118905, 42.261076, 31.288433), Hdg = 5.304801 <xxx>
+t = 4.00, ID = 16777728, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.192134, 41.640548, 0.000000), Hdg = 2.424271 <xxx>
+t = 4.00, ID = 16844800, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.928653, 41.851486, 18.000000), Hdg = 5.050713 <xxx>
+t = 4.00, ID = 16846848, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926609, 41.859408, 18.000000), Hdg = 4.670746 <xxx>
+t = 4.00, ID = 16783872, name = T-55, country = 0(Allies), LatLongAlt = (42.203706, 41.918447, 10.146554), Hdg = 2.429235 <xxx>
+t = 4.00, ID = 16785920, name = T-55, country = 0(Allies), LatLongAlt = (42.195367, 41.921551, 8.241483), Hdg = 2.429234 <xxx>
+t = 4.00, ID = 16787968, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164347, 42.132297, 15.099614), Hdg = 2.553587 <xxx>
+t = 4.00, ID = 16826624, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118802, 42.259521, 31.184052), Hdg = 4.622300 <xxx>
+t = 4.00, ID = 16828672, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.118858, 42.261138, 31.327188), Hdg = 5.280478 <xxx>
+t = 4.00, ID = 16830720, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118956, 42.261007, 31.245054), Hdg = 5.437240 <xxx>
+t = 4.00, ID = 16848640, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927465, 41.850750, 20.387085), Hdg = 1.221731 <xxx>
+t = 4.00, ID = 16848384, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927703, 41.850941, 20.281537), Hdg = 1.224511 <xxx>
+t = 4.00, ID = 16848128, name = M 818, country = 2(Enemies), LatLongAlt = (41.927187, 41.858850, 18.000000), Hdg = 6.143559 <xxx>
+t = 4.00, ID = 16847872, name = M978 HEMTT Tanker, country = 2(Enemies), LatLongAlt = (41.927109, 41.858076, 18.000000), Hdg = 6.143559 <xxx>
+t = 4.00, ID = 16847616, name = HEMTT TFFT, country = 2(Enemies), LatLongAlt = (41.927050, 41.857503, 18.000000), Hdg = 6.143559 <xxx>
+t = 4.00, ID = 16847360, name = M6 Linebacker, country = 2(Enemies), LatLongAlt = (41.930657, 41.859142, 18.000000), Hdg = 4.185446 <xxx>
+t = 6.00 Pilot Alt = 248.921394 LatLong = 41.927703 41.850941 Hdg= 70.164188 tas= 0.000108 <xxx>
+t = 6.00, ID = 16777984, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198411, 41.639474, 0.000000), Hdg = 4.601732 <xxx>
+t = 6.00, ID = 16845056, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.930578, 41.871684, 18.000000), Hdg = 1.118642 <xxx>
+t = 6.00, ID = 16847104, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926616, 41.859381, 21.394918), Hdg = 2.896614 <xxx>
+t = 6.00, ID = 16784128, name = T-55, country = 0(Allies), LatLongAlt = (42.202847, 41.938895, 10.218915), Hdg = 2.429236 <xxx>
+t = 6.00, ID = 16786176, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170696, 42.119468, 12.711155), Hdg = 0.000000 <xxx>
+t = 6.00, ID = 16788224, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165071, 42.129674, 14.727321), Hdg = 1.127347 <xxx>
+t = 6.00, ID = 16826880, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118795, 42.259645, 31.203133), Hdg = 4.601722 <xxx>
+t = 6.00, ID = 16828928, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117870, 42.261249, 32.021378), Hdg = 0.000000 <xxx>
+t = 6.00, ID = 16830976, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118999, 42.260955, 31.209557), Hdg = 5.539416 <xxx>
+t = 6.00, ID = 16778240, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198369, 41.648145, 0.000000), Hdg = 1.430871 <xxx>
+t = 6.00, ID = 16845312, name = Hummer, country = 2(Enemies), LatLongAlt = (41.932250, 41.860363, 18.000000), Hdg = 3.941483 <xxx>
+t = 6.00, ID = 16782336, name = T-55, country = 0(Allies), LatLongAlt = (42.206067, 41.915878, 10.013263), Hdg = 2.429235 <xxx>
+t = 6.00, ID = 16784384, name = T-55, country = 0(Allies), LatLongAlt = (42.200492, 41.914534, 9.302426), Hdg = 2.429236 <xxx>
+t = 6.00, ID = 16786432, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168893, 42.115994, 13.227118), Hdg = 4.380589 <xxx>
+t = 6.00, ID = 16788480, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166972, 42.119757, 13.854740), Hdg = 4.622541 <xxx>
+t = 6.00, ID = 16827136, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118012, 42.259882, 31.769497), Hdg = 1.556701 <xxx>
+t = 6.00, ID = 16829184, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117951, 42.261261, 31.966583), Hdg = 0.000000 <xxx>
+t = 6.00, ID = 16845568, name = Hummer, country = 2(Enemies), LatLongAlt = (41.926617, 41.859333, 18.000000), Hdg = 6.118037 <xxx>
+t = 6.00, ID = 16782592, name = T-55, country = 0(Allies), LatLongAlt = (42.202709, 41.907555, 8.650128), Hdg = 2.429236 <xxx>
+t = 6.00, ID = 16784640, name = T-55, country = 0(Allies), LatLongAlt = (42.200676, 41.915459, 9.459134), Hdg = 2.429236 <xxx>
+t = 6.00, ID = 16786688, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164717, 42.118705, 14.373638), Hdg = 4.119875 <xxx>
+t = 6.00, ID = 16788736, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169443, 42.123881, 13.453124), Hdg = 6.103332 <xxx>
+t = 6.00, ID = 16827392, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118004, 42.260012, 31.789713), Hdg = 1.531332 <xxx>
+t = 6.00, ID = 16829440, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117784, 42.261232, 32.078907), Hdg = 0.000000 <xxx>
+t = 6.00, ID = 16845824, name = Hummer, country = 2(Enemies), LatLongAlt = (41.927461, 41.863838, 18.000000), Hdg = 2.169215 <xxx>
+t = 6.00, ID = 16782848, name = T-55, country = 0(Allies), LatLongAlt = (42.203069, 41.901314, 7.802643), Hdg = 2.429235 <xxx>
+t = 6.00, ID = 16784896, name = T-55, country = 0(Allies), LatLongAlt = (42.201294, 41.916100, 9.641173), Hdg = 2.429236 <xxx>
+t = 6.00, ID = 16786944, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170816, 42.115408, 12.576155), Hdg = 5.221457 <xxx>
+t = 6.00, ID = 16788992, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165324, 42.122040, 14.345192), Hdg = 3.517234 <xxx>
+t = 6.00, ID = 16827648, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117994, 42.260131, 31.809847), Hdg = 1.557272 <xxx>
+t = 6.00, ID = 16829696, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117885, 42.261092, 31.993139), Hdg = 0.000000 <xxx>
+t = 6.00, ID = 16846080, name = M-113, country = 2(Enemies), LatLongAlt = (41.924183, 41.864190, 18.000000), Hdg = 6.235603 <xxx>
+t = 6.00, ID = 16783104, name = T-55, country = 0(Allies), LatLongAlt = (42.205307, 41.911795, 9.593053), Hdg = 2.429236 <xxx>
+t = 6.00, ID = 16785152, name = T-55, country = 0(Allies), LatLongAlt = (42.201111, 41.914173, 9.344171), Hdg = 2.429236 <xxx>
+t = 6.00, ID = 16787200, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166554, 42.137454, 14.720903), Hdg = 1.603571 <xxx>
+t = 6.00, ID = 16789248, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.167797, 42.132211, 14.450558), Hdg = 0.849824 <xxx>
+t = 6.00, ID = 16827904, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117982, 42.260257, 31.832798), Hdg = 1.502399 <xxx>
+t = 6.00, ID = 16829952, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117964, 42.261103, 31.940029), Hdg = 0.000000 <xxx>
+t = 6.00, ID = 16846336, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926595, 41.859385, 18.000000), Hdg = 0.945311 <xxx>
+t = 6.00, ID = 16783360, name = T-55, country = 0(Allies), LatLongAlt = (42.201471, 41.915157, 9.534965), Hdg = 2.429236 <xxx>
+t = 6.00, ID = 16785408, name = T-55, country = 0(Allies), LatLongAlt = (42.197499, 41.918604, 9.303934), Hdg = 2.429236 <xxx>
+t = 6.00, ID = 16787456, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169272, 42.129212, 14.004634), Hdg = 0.555493 <xxx>
+t = 6.00, ID = 16789504, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166116, 42.124021, 14.192931), Hdg = 3.194176 <xxx>
+t = 6.00, ID = 16826112, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118830, 42.259246, 31.134121), Hdg = 4.757800 <xxx>
+t = 6.00, ID = 16828160, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118345, 42.261132, 31.680798), Hdg = 0.000000 <xxx>
+t = 6.00, ID = 16830208, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117796, 42.261079, 32.052982), Hdg = 0.000000 <xxx>
+t = 6.00, ID = 16777472, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.203538, 41.637619, 0.000000), Hdg = 6.283185 <xxx>
+t = 6.00, ID = 16846592, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.932143, 41.860482, 18.000000), Hdg = 3.141593 <xxx>
+t = 6.00, ID = 16783616, name = T-55, country = 0(Allies), LatLongAlt = (42.200759, 41.916370, 9.600081), Hdg = 2.429236 <xxx>
+t = 6.00, ID = 16785664, name = T-55, country = 0(Allies), LatLongAlt = (42.203574, 41.923407, 9.400670), Hdg = 2.429235 <xxx>
+t = 6.00, ID = 16787712, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170549, 42.127393, 13.744644), Hdg = 6.283185 <xxx>
+t = 6.00, ID = 16789760, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168361, 42.121341, 13.506642), Hdg = 5.210209 <xxx>
+t = 6.00, ID = 16826368, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118815, 42.259392, 31.160471), Hdg = 4.702669 <xxx>
+t = 6.00, ID = 16828416, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118456, 42.261148, 31.605621), Hdg = 0.000000 <xxx>
+t = 6.00, ID = 16830464, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118905, 42.261076, 31.288433), Hdg = 5.304801 <xxx>
+t = 6.00, ID = 16777728, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.192134, 41.640548, 0.000000), Hdg = 2.424271 <xxx>
+t = 6.00, ID = 16844800, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.928653, 41.851486, 18.000000), Hdg = 5.050713 <xxx>
+t = 6.00, ID = 16846848, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926609, 41.859408, 18.000000), Hdg = 4.670746 <xxx>
+t = 6.00, ID = 16783872, name = T-55, country = 0(Allies), LatLongAlt = (42.203706, 41.918447, 10.146554), Hdg = 2.429235 <xxx>
+t = 6.00, ID = 16785920, name = T-55, country = 0(Allies), LatLongAlt = (42.195367, 41.921551, 8.241483), Hdg = 2.429234 <xxx>
+t = 6.00, ID = 16787968, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164347, 42.132297, 15.099614), Hdg = 2.553587 <xxx>
+t = 6.00, ID = 16826624, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118802, 42.259521, 31.184052), Hdg = 4.622300 <xxx>
+t = 6.00, ID = 16828672, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.118858, 42.261138, 31.327188), Hdg = 5.280478 <xxx>
+t = 6.00, ID = 16830720, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118956, 42.261007, 31.245054), Hdg = 5.437240 <xxx>
+t = 6.00, ID = 16848640, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927465, 41.850750, 20.387085), Hdg = 1.221731 <xxx>
+t = 6.00, ID = 16848384, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927703, 41.850941, 20.281513), Hdg = 1.224506 <xxx>
+t = 6.00, ID = 16848128, name = M 818, country = 2(Enemies), LatLongAlt = (41.927187, 41.858850, 18.000000), Hdg = 6.143559 <xxx>
+t = 6.00, ID = 16847872, name = M978 HEMTT Tanker, country = 2(Enemies), LatLongAlt = (41.927109, 41.858076, 18.000000), Hdg = 6.143559 <xxx>
+t = 6.00, ID = 16847616, name = HEMTT TFFT, country = 2(Enemies), LatLongAlt = (41.927050, 41.857503, 18.000000), Hdg = 6.143559 <xxx>
+t = 6.00, ID = 16847360, name = M6 Linebacker, country = 2(Enemies), LatLongAlt = (41.930657, 41.859142, 18.000000), Hdg = 4.185446 <xxx>
+t = 8.00 Pilot Alt = 248.921394 LatLong = 41.927703 41.850941 Hdg= 70.164188 tas= 0.000082 <xxx>
+t = 8.00, ID = 16777984, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198411, 41.639474, 0.000000), Hdg = 4.601732 <xxx>
+t = 8.00, ID = 16845056, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.930578, 41.871684, 18.000000), Hdg = 1.118642 <xxx>
+t = 8.00, ID = 16847104, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926616, 41.859381, 21.394918), Hdg = 2.896614 <xxx>
+t = 8.00, ID = 16784128, name = T-55, country = 0(Allies), LatLongAlt = (42.202847, 41.938895, 10.218915), Hdg = 2.429236 <xxx>
+t = 8.00, ID = 16786176, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170696, 42.119468, 12.711155), Hdg = 0.000000 <xxx>
+t = 8.00, ID = 16788224, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165071, 42.129674, 14.727321), Hdg = 1.127347 <xxx>
+t = 8.00, ID = 16826880, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118795, 42.259645, 31.203133), Hdg = 4.601722 <xxx>
+t = 8.00, ID = 16828928, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117870, 42.261249, 32.021378), Hdg = 0.000000 <xxx>
+t = 8.00, ID = 16830976, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118999, 42.260955, 31.209557), Hdg = 5.539416 <xxx>
+t = 8.00, ID = 16778240, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198369, 41.648145, 0.000000), Hdg = 1.430871 <xxx>
+t = 8.00, ID = 16845312, name = Hummer, country = 2(Enemies), LatLongAlt = (41.932250, 41.860363, 18.000000), Hdg = 3.941483 <xxx>
+t = 8.00, ID = 16782336, name = T-55, country = 0(Allies), LatLongAlt = (42.206067, 41.915878, 10.013263), Hdg = 2.429235 <xxx>
+t = 8.00, ID = 16784384, name = T-55, country = 0(Allies), LatLongAlt = (42.200492, 41.914534, 9.302426), Hdg = 2.429236 <xxx>
+t = 8.00, ID = 16786432, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168893, 42.115994, 13.227118), Hdg = 4.380589 <xxx>
+t = 8.00, ID = 16788480, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166972, 42.119757, 13.854740), Hdg = 4.622541 <xxx>
+t = 8.00, ID = 16827136, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118012, 42.259882, 31.769497), Hdg = 1.556701 <xxx>
+t = 8.00, ID = 16829184, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117951, 42.261261, 31.966583), Hdg = 0.000000 <xxx>
+t = 8.00, ID = 16845568, name = Hummer, country = 2(Enemies), LatLongAlt = (41.926617, 41.859333, 18.000000), Hdg = 6.118037 <xxx>
+t = 8.00, ID = 16782592, name = T-55, country = 0(Allies), LatLongAlt = (42.202709, 41.907555, 8.650128), Hdg = 2.429236 <xxx>
+t = 8.00, ID = 16784640, name = T-55, country = 0(Allies), LatLongAlt = (42.200676, 41.915459, 9.459134), Hdg = 2.429236 <xxx>
+t = 8.00, ID = 16786688, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164717, 42.118705, 14.373638), Hdg = 4.119875 <xxx>
+t = 8.00, ID = 16788736, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169443, 42.123881, 13.453124), Hdg = 6.103332 <xxx>
+t = 8.00, ID = 16827392, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118004, 42.260012, 31.789713), Hdg = 1.531332 <xxx>
+t = 8.00, ID = 16829440, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117784, 42.261232, 32.078907), Hdg = 0.000000 <xxx>
+t = 8.00, ID = 16845824, name = Hummer, country = 2(Enemies), LatLongAlt = (41.927461, 41.863838, 18.000000), Hdg = 2.169215 <xxx>
+t = 8.00, ID = 16782848, name = T-55, country = 0(Allies), LatLongAlt = (42.203069, 41.901314, 7.802643), Hdg = 2.429235 <xxx>
+t = 8.00, ID = 16784896, name = T-55, country = 0(Allies), LatLongAlt = (42.201294, 41.916100, 9.641173), Hdg = 2.429236 <xxx>
+t = 8.00, ID = 16786944, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170816, 42.115408, 12.576155), Hdg = 5.221457 <xxx>
+t = 8.00, ID = 16788992, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165324, 42.122040, 14.345192), Hdg = 3.517234 <xxx>
+t = 8.00, ID = 16827648, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117994, 42.260131, 31.809847), Hdg = 1.557272 <xxx>
+t = 8.00, ID = 16829696, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117885, 42.261092, 31.993139), Hdg = 0.000000 <xxx>
+t = 8.00, ID = 16846080, name = M-113, country = 2(Enemies), LatLongAlt = (41.924183, 41.864190, 18.000000), Hdg = 6.235603 <xxx>
+t = 8.00, ID = 16783104, name = T-55, country = 0(Allies), LatLongAlt = (42.205307, 41.911795, 9.593053), Hdg = 2.429236 <xxx>
+t = 8.00, ID = 16785152, name = T-55, country = 0(Allies), LatLongAlt = (42.201111, 41.914173, 9.344171), Hdg = 2.429236 <xxx>
+t = 8.00, ID = 16787200, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166554, 42.137454, 14.720903), Hdg = 1.603571 <xxx>
+t = 8.00, ID = 16789248, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.167797, 42.132211, 14.450558), Hdg = 0.849824 <xxx>
+t = 8.00, ID = 16827904, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117982, 42.260257, 31.832798), Hdg = 1.502399 <xxx>
+t = 8.00, ID = 16829952, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117964, 42.261103, 31.940029), Hdg = 0.000000 <xxx>
+t = 8.00, ID = 16846336, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926595, 41.859385, 18.000000), Hdg = 0.945311 <xxx>
+t = 8.00, ID = 16783360, name = T-55, country = 0(Allies), LatLongAlt = (42.201471, 41.915157, 9.534965), Hdg = 2.429236 <xxx>
+t = 8.00, ID = 16785408, name = T-55, country = 0(Allies), LatLongAlt = (42.197499, 41.918604, 9.303934), Hdg = 2.429236 <xxx>
+t = 8.00, ID = 16787456, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169272, 42.129212, 14.004634), Hdg = 0.555493 <xxx>
+t = 8.00, ID = 16789504, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166116, 42.124021, 14.192931), Hdg = 3.194176 <xxx>
+t = 8.00, ID = 16826112, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118830, 42.259246, 31.134121), Hdg = 4.757800 <xxx>
+t = 8.00, ID = 16828160, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118345, 42.261132, 31.680798), Hdg = 0.000000 <xxx>
+t = 8.00, ID = 16830208, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117796, 42.261079, 32.052982), Hdg = 0.000000 <xxx>
+t = 8.00, ID = 16777472, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.203538, 41.637619, 0.000000), Hdg = 6.283185 <xxx>
+t = 8.00, ID = 16846592, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.932143, 41.860482, 18.000000), Hdg = 3.141593 <xxx>
+t = 8.00, ID = 16783616, name = T-55, country = 0(Allies), LatLongAlt = (42.200759, 41.916370, 9.600081), Hdg = 2.429236 <xxx>
+t = 8.00, ID = 16785664, name = T-55, country = 0(Allies), LatLongAlt = (42.203574, 41.923407, 9.400670), Hdg = 2.429235 <xxx>
+t = 8.00, ID = 16787712, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170549, 42.127393, 13.744644), Hdg = 6.283185 <xxx>
+t = 8.00, ID = 16789760, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168361, 42.121341, 13.506642), Hdg = 5.210209 <xxx>
+t = 8.00, ID = 16826368, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118815, 42.259392, 31.160471), Hdg = 4.702669 <xxx>
+t = 8.00, ID = 16828416, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118456, 42.261148, 31.605621), Hdg = 0.000000 <xxx>
+t = 8.00, ID = 16830464, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118905, 42.261076, 31.288433), Hdg = 5.304801 <xxx>
+t = 8.00, ID = 16777728, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.192134, 41.640548, 0.000000), Hdg = 2.424271 <xxx>
+t = 8.00, ID = 16844800, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.928653, 41.851486, 18.000000), Hdg = 5.050713 <xxx>
+t = 8.00, ID = 16846848, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926609, 41.859408, 18.000000), Hdg = 4.670746 <xxx>
+t = 8.00, ID = 16783872, name = T-55, country = 0(Allies), LatLongAlt = (42.203706, 41.918447, 10.146554), Hdg = 2.429235 <xxx>
+t = 8.00, ID = 16785920, name = T-55, country = 0(Allies), LatLongAlt = (42.195367, 41.921551, 8.241483), Hdg = 2.429234 <xxx>
+t = 8.00, ID = 16787968, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164347, 42.132297, 15.099614), Hdg = 2.553587 <xxx>
+t = 8.00, ID = 16826624, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118802, 42.259521, 31.184052), Hdg = 4.622300 <xxx>
+t = 8.00, ID = 16828672, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.118858, 42.261138, 31.327188), Hdg = 5.280478 <xxx>
+t = 8.00, ID = 16830720, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118956, 42.261007, 31.245054), Hdg = 5.437240 <xxx>
+t = 8.00, ID = 16848640, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927465, 41.850750, 20.387085), Hdg = 1.221731 <xxx>
+t = 8.00, ID = 16848384, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927703, 41.850941, 20.281504), Hdg = 1.224506 <xxx>
+t = 8.00, ID = 16848128, name = M 818, country = 2(Enemies), LatLongAlt = (41.927187, 41.858850, 18.000000), Hdg = 6.143559 <xxx>
+t = 8.00, ID = 16847872, name = M978 HEMTT Tanker, country = 2(Enemies), LatLongAlt = (41.927109, 41.858076, 18.000000), Hdg = 6.143559 <xxx>
+t = 8.00, ID = 16847616, name = HEMTT TFFT, country = 2(Enemies), LatLongAlt = (41.927050, 41.857503, 18.000000), Hdg = 6.143559 <xxx>
+t = 8.00, ID = 16847360, name = M6 Linebacker, country = 2(Enemies), LatLongAlt = (41.930657, 41.859142, 18.000000), Hdg = 4.185446 <xxx>
+t = 10.00 Pilot Alt = 248.921394 LatLong = 41.927703 41.850941 Hdg= 70.164188 tas= 0.000094 <xxx>
+t = 10.00, ID = 16777984, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198411, 41.639474, 0.000000), Hdg = 4.601732 <xxx>
+t = 10.00, ID = 16845056, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.930578, 41.871684, 18.000000), Hdg = 1.118642 <xxx>
+t = 10.00, ID = 16847104, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926616, 41.859381, 21.394918), Hdg = 2.896614 <xxx>
+t = 10.00, ID = 16784128, name = T-55, country = 0(Allies), LatLongAlt = (42.202847, 41.938895, 10.218915), Hdg = 2.429236 <xxx>
+t = 10.00, ID = 16786176, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170696, 42.119468, 12.711155), Hdg = 0.000000 <xxx>
+t = 10.00, ID = 16788224, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165071, 42.129674, 14.727321), Hdg = 1.127347 <xxx>
+t = 10.00, ID = 16826880, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118795, 42.259645, 31.203133), Hdg = 4.601722 <xxx>
+t = 10.00, ID = 16828928, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117870, 42.261249, 32.021378), Hdg = 0.000000 <xxx>
+t = 10.00, ID = 16830976, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118999, 42.260955, 31.209557), Hdg = 5.539416 <xxx>
+t = 10.00, ID = 16778240, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198369, 41.648145, 0.000000), Hdg = 1.430871 <xxx>
+t = 10.00, ID = 16845312, name = Hummer, country = 2(Enemies), LatLongAlt = (41.932250, 41.860363, 18.000000), Hdg = 3.941483 <xxx>
+t = 10.00, ID = 16782336, name = T-55, country = 0(Allies), LatLongAlt = (42.206067, 41.915878, 10.013263), Hdg = 2.429235 <xxx>
+t = 10.00, ID = 16784384, name = T-55, country = 0(Allies), LatLongAlt = (42.200492, 41.914534, 9.302426), Hdg = 2.429236 <xxx>
+t = 10.00, ID = 16786432, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168893, 42.115994, 13.227118), Hdg = 4.380589 <xxx>
+t = 10.00, ID = 16788480, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166972, 42.119757, 13.854740), Hdg = 4.622541 <xxx>
+t = 10.00, ID = 16827136, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118012, 42.259882, 31.769497), Hdg = 1.556701 <xxx>
+t = 10.00, ID = 16829184, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117951, 42.261261, 31.966583), Hdg = 0.000000 <xxx>
+t = 10.00, ID = 16845568, name = Hummer, country = 2(Enemies), LatLongAlt = (41.926617, 41.859333, 18.000000), Hdg = 6.118037 <xxx>
+t = 10.00, ID = 16782592, name = T-55, country = 0(Allies), LatLongAlt = (42.202709, 41.907555, 8.650128), Hdg = 2.429236 <xxx>
+t = 10.00, ID = 16784640, name = T-55, country = 0(Allies), LatLongAlt = (42.200676, 41.915459, 9.459134), Hdg = 2.429236 <xxx>
+t = 10.00, ID = 16786688, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164717, 42.118705, 14.373638), Hdg = 4.119875 <xxx>
+t = 10.00, ID = 16788736, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169443, 42.123881, 13.453124), Hdg = 6.103332 <xxx>
+t = 10.00, ID = 16827392, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118004, 42.260012, 31.789713), Hdg = 1.531332 <xxx>
+t = 10.00, ID = 16829440, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117784, 42.261232, 32.078907), Hdg = 0.000000 <xxx>
+t = 10.00, ID = 16845824, name = Hummer, country = 2(Enemies), LatLongAlt = (41.927461, 41.863838, 18.000000), Hdg = 2.169215 <xxx>
+t = 10.00, ID = 16782848, name = T-55, country = 0(Allies), LatLongAlt = (42.203069, 41.901314, 7.802643), Hdg = 2.429235 <xxx>
+t = 10.00, ID = 16784896, name = T-55, country = 0(Allies), LatLongAlt = (42.201294, 41.916100, 9.641173), Hdg = 2.429236 <xxx>
+t = 10.00, ID = 16786944, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170816, 42.115408, 12.576155), Hdg = 5.221457 <xxx>
+t = 10.00, ID = 16788992, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165324, 42.122040, 14.345192), Hdg = 3.517234 <xxx>
+t = 10.00, ID = 16827648, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117994, 42.260131, 31.809847), Hdg = 1.557272 <xxx>
+t = 10.00, ID = 16829696, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117885, 42.261092, 31.993139), Hdg = 0.000000 <xxx>
+t = 10.00, ID = 16846080, name = M-113, country = 2(Enemies), LatLongAlt = (41.924183, 41.864190, 18.000000), Hdg = 6.235603 <xxx>
+t = 10.00, ID = 16783104, name = T-55, country = 0(Allies), LatLongAlt = (42.205307, 41.911795, 9.593053), Hdg = 2.429236 <xxx>
+t = 10.00, ID = 16785152, name = T-55, country = 0(Allies), LatLongAlt = (42.201111, 41.914173, 9.344171), Hdg = 2.429236 <xxx>
+t = 10.00, ID = 16787200, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166554, 42.137454, 14.720903), Hdg = 1.603571 <xxx>
+t = 10.00, ID = 16789248, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.167797, 42.132211, 14.450558), Hdg = 0.849824 <xxx>
+t = 10.00, ID = 16827904, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117982, 42.260257, 31.832798), Hdg = 1.502399 <xxx>
+t = 10.00, ID = 16829952, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117964, 42.261103, 31.940029), Hdg = 0.000000 <xxx>
+t = 10.00, ID = 16846336, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926595, 41.859385, 18.000000), Hdg = 0.945311 <xxx>
+t = 10.00, ID = 16783360, name = T-55, country = 0(Allies), LatLongAlt = (42.201471, 41.915157, 9.534965), Hdg = 2.429236 <xxx>
+t = 10.00, ID = 16785408, name = T-55, country = 0(Allies), LatLongAlt = (42.197499, 41.918604, 9.303934), Hdg = 2.429236 <xxx>
+t = 10.00, ID = 16787456, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169272, 42.129212, 14.004634), Hdg = 0.555493 <xxx>
+t = 10.00, ID = 16789504, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166116, 42.124021, 14.192931), Hdg = 3.194176 <xxx>
+t = 10.00, ID = 16826112, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118830, 42.259246, 31.134121), Hdg = 4.757800 <xxx>
+t = 10.00, ID = 16828160, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118345, 42.261132, 31.680798), Hdg = 0.000000 <xxx>
+t = 10.00, ID = 16830208, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117796, 42.261079, 32.052982), Hdg = 0.000000 <xxx>
+t = 10.00, ID = 16777472, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.203538, 41.637619, 0.000000), Hdg = 6.283185 <xxx>
+t = 10.00, ID = 16846592, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.932143, 41.860482, 18.000000), Hdg = 3.141593 <xxx>
+t = 10.00, ID = 16783616, name = T-55, country = 0(Allies), LatLongAlt = (42.200759, 41.916370, 9.600081), Hdg = 2.429236 <xxx>
+t = 10.00, ID = 16785664, name = T-55, country = 0(Allies), LatLongAlt = (42.203574, 41.923407, 9.400670), Hdg = 2.429235 <xxx>
+t = 10.00, ID = 16787712, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170549, 42.127393, 13.744644), Hdg = 6.283185 <xxx>
+t = 10.00, ID = 16789760, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168361, 42.121341, 13.506642), Hdg = 5.210209 <xxx>
+t = 10.00, ID = 16826368, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118815, 42.259392, 31.160471), Hdg = 4.702669 <xxx>
+t = 10.00, ID = 16828416, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118456, 42.261148, 31.605621), Hdg = 0.000000 <xxx>
+t = 10.00, ID = 16830464, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118905, 42.261076, 31.288433), Hdg = 5.304801 <xxx>
+t = 10.00, ID = 16777728, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.192134, 41.640548, 0.000000), Hdg = 2.424271 <xxx>
+t = 10.00, ID = 16844800, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.928653, 41.851486, 18.000000), Hdg = 5.050713 <xxx>
+t = 10.00, ID = 16846848, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926609, 41.859408, 18.000000), Hdg = 4.670746 <xxx>
+t = 10.00, ID = 16783872, name = T-55, country = 0(Allies), LatLongAlt = (42.203706, 41.918447, 10.146554), Hdg = 2.429235 <xxx>
+t = 10.00, ID = 16785920, name = T-55, country = 0(Allies), LatLongAlt = (42.195367, 41.921551, 8.241483), Hdg = 2.429234 <xxx>
+t = 10.00, ID = 16787968, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164347, 42.132297, 15.099614), Hdg = 2.553587 <xxx>
+t = 10.00, ID = 16826624, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118802, 42.259521, 31.184052), Hdg = 4.622300 <xxx>
+t = 10.00, ID = 16828672, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.118858, 42.261138, 31.327188), Hdg = 5.280478 <xxx>
+t = 10.00, ID = 16830720, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118956, 42.261007, 31.245054), Hdg = 5.437240 <xxx>
+t = 10.00, ID = 16848640, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927465, 41.850750, 20.387085), Hdg = 1.221731 <xxx>
+t = 10.00, ID = 16848384, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927703, 41.850941, 20.281499), Hdg = 1.224506 <xxx>
+t = 10.00, ID = 16848128, name = M 818, country = 2(Enemies), LatLongAlt = (41.927187, 41.858850, 18.000000), Hdg = 6.143559 <xxx>
+t = 10.00, ID = 16847872, name = M978 HEMTT Tanker, country = 2(Enemies), LatLongAlt = (41.927109, 41.858076, 18.000000), Hdg = 6.143559 <xxx>
+t = 10.00, ID = 16847616, name = HEMTT TFFT, country = 2(Enemies), LatLongAlt = (41.927050, 41.857503, 18.000000), Hdg = 6.143559 <xxx>
+t = 10.00, ID = 16847360, name = M6 Linebacker, country = 2(Enemies), LatLongAlt = (41.930657, 41.859142, 18.000000), Hdg = 4.185446 <xxx>
+t = 12.00 Pilot Alt = 248.921394 LatLong = 41.927703 41.850941 Hdg= 70.164188 tas= 0.000053 <xxx>
+t = 12.00, ID = 16777984, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198411, 41.639474, 0.000000), Hdg = 4.601732 <xxx>
+t = 12.00, ID = 16845056, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.930578, 41.871684, 18.000000), Hdg = 1.118642 <xxx>
+t = 12.00, ID = 16847104, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926616, 41.859381, 21.394918), Hdg = 2.896614 <xxx>
+t = 12.00, ID = 16784128, name = T-55, country = 0(Allies), LatLongAlt = (42.202847, 41.938895, 10.218915), Hdg = 2.429236 <xxx>
+t = 12.00, ID = 16786176, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170696, 42.119468, 12.711155), Hdg = 0.000000 <xxx>
+t = 12.00, ID = 16788224, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165071, 42.129674, 14.727321), Hdg = 1.127347 <xxx>
+t = 12.00, ID = 16826880, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118795, 42.259645, 31.203133), Hdg = 4.601722 <xxx>
+t = 12.00, ID = 16828928, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117870, 42.261249, 32.021378), Hdg = 0.000000 <xxx>
+t = 12.00, ID = 16830976, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118999, 42.260955, 31.209557), Hdg = 5.539416 <xxx>
+t = 12.00, ID = 16778240, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198369, 41.648145, 0.000000), Hdg = 1.430871 <xxx>
+t = 12.00, ID = 16845312, name = Hummer, country = 2(Enemies), LatLongAlt = (41.932250, 41.860363, 18.000000), Hdg = 3.941483 <xxx>
+t = 12.00, ID = 16782336, name = T-55, country = 0(Allies), LatLongAlt = (42.206067, 41.915878, 10.013263), Hdg = 2.429235 <xxx>
+t = 12.00, ID = 16784384, name = T-55, country = 0(Allies), LatLongAlt = (42.200492, 41.914534, 9.302426), Hdg = 2.429236 <xxx>
+t = 12.00, ID = 16786432, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168893, 42.115994, 13.227118), Hdg = 4.380589 <xxx>
+t = 12.00, ID = 16788480, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166972, 42.119757, 13.854740), Hdg = 4.622541 <xxx>
+t = 12.00, ID = 16827136, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118012, 42.259882, 31.769497), Hdg = 1.556701 <xxx>
+t = 12.00, ID = 16829184, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117951, 42.261261, 31.966583), Hdg = 0.000000 <xxx>
+t = 12.00, ID = 16845568, name = Hummer, country = 2(Enemies), LatLongAlt = (41.926617, 41.859333, 18.000000), Hdg = 6.118037 <xxx>
+t = 12.00, ID = 16782592, name = T-55, country = 0(Allies), LatLongAlt = (42.202709, 41.907555, 8.650128), Hdg = 2.429236 <xxx>
+t = 12.00, ID = 16784640, name = T-55, country = 0(Allies), LatLongAlt = (42.200676, 41.915459, 9.459134), Hdg = 2.429236 <xxx>
+t = 12.00, ID = 16786688, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164717, 42.118705, 14.373638), Hdg = 4.119875 <xxx>
+t = 12.00, ID = 16788736, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169443, 42.123881, 13.453124), Hdg = 6.103332 <xxx>
+t = 12.00, ID = 16827392, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118004, 42.260012, 31.789713), Hdg = 1.531332 <xxx>
+t = 12.00, ID = 16829440, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117784, 42.261232, 32.078907), Hdg = 0.000000 <xxx>
+t = 12.00, ID = 16845824, name = Hummer, country = 2(Enemies), LatLongAlt = (41.927461, 41.863838, 18.000000), Hdg = 2.169215 <xxx>
+t = 12.00, ID = 16782848, name = T-55, country = 0(Allies), LatLongAlt = (42.203069, 41.901314, 7.802643), Hdg = 2.429235 <xxx>
+t = 12.00, ID = 16784896, name = T-55, country = 0(Allies), LatLongAlt = (42.201294, 41.916100, 9.641173), Hdg = 2.429236 <xxx>
+t = 12.00, ID = 16786944, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170816, 42.115408, 12.576155), Hdg = 5.221457 <xxx>
+t = 12.00, ID = 16788992, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165324, 42.122040, 14.345192), Hdg = 3.517234 <xxx>
+t = 12.00, ID = 16827648, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117994, 42.260131, 31.809847), Hdg = 1.557272 <xxx>
+t = 12.00, ID = 16829696, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117885, 42.261092, 31.993139), Hdg = 0.000000 <xxx>
+t = 12.00, ID = 16846080, name = M-113, country = 2(Enemies), LatLongAlt = (41.924183, 41.864190, 18.000000), Hdg = 6.235603 <xxx>
+t = 12.00, ID = 16783104, name = T-55, country = 0(Allies), LatLongAlt = (42.205307, 41.911795, 9.593053), Hdg = 2.429236 <xxx>
+t = 12.00, ID = 16785152, name = T-55, country = 0(Allies), LatLongAlt = (42.201111, 41.914173, 9.344171), Hdg = 2.429236 <xxx>
+t = 12.00, ID = 16787200, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166554, 42.137454, 14.720903), Hdg = 1.603571 <xxx>
+t = 12.00, ID = 16789248, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.167797, 42.132211, 14.450558), Hdg = 0.849824 <xxx>
+t = 12.00, ID = 16827904, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117982, 42.260257, 31.832798), Hdg = 1.502399 <xxx>
+t = 12.00, ID = 16829952, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117964, 42.261103, 31.940029), Hdg = 0.000000 <xxx>
+t = 12.00, ID = 16846336, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926595, 41.859385, 18.000000), Hdg = 0.945311 <xxx>
+t = 12.00, ID = 16783360, name = T-55, country = 0(Allies), LatLongAlt = (42.201471, 41.915157, 9.534965), Hdg = 2.429236 <xxx>
+t = 12.00, ID = 16785408, name = T-55, country = 0(Allies), LatLongAlt = (42.197499, 41.918604, 9.303934), Hdg = 2.429236 <xxx>
+t = 12.00, ID = 16787456, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169272, 42.129212, 14.004634), Hdg = 0.555493 <xxx>
+t = 12.00, ID = 16789504, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166116, 42.124021, 14.192931), Hdg = 3.194176 <xxx>
+t = 12.00, ID = 16826112, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118830, 42.259246, 31.134121), Hdg = 4.757800 <xxx>
+t = 12.00, ID = 16828160, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118345, 42.261132, 31.680798), Hdg = 0.000000 <xxx>
+t = 12.00, ID = 16830208, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117796, 42.261079, 32.052982), Hdg = 0.000000 <xxx>
+t = 12.00, ID = 16777472, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.203538, 41.637619, 0.000000), Hdg = 6.283185 <xxx>
+t = 12.00, ID = 16846592, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.932143, 41.860482, 18.000000), Hdg = 3.141593 <xxx>
+t = 12.00, ID = 16783616, name = T-55, country = 0(Allies), LatLongAlt = (42.200759, 41.916370, 9.600081), Hdg = 2.429236 <xxx>
+t = 12.00, ID = 16785664, name = T-55, country = 0(Allies), LatLongAlt = (42.203574, 41.923407, 9.400670), Hdg = 2.429235 <xxx>
+t = 12.00, ID = 16787712, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170549, 42.127393, 13.744644), Hdg = 6.283185 <xxx>
+t = 12.00, ID = 16789760, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168361, 42.121341, 13.506642), Hdg = 5.210209 <xxx>
+t = 12.00, ID = 16826368, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118815, 42.259392, 31.160471), Hdg = 4.702669 <xxx>
+t = 12.00, ID = 16828416, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118456, 42.261148, 31.605621), Hdg = 0.000000 <xxx>
+t = 12.00, ID = 16830464, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118905, 42.261076, 31.288433), Hdg = 5.304801 <xxx>
+t = 12.00, ID = 16777728, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.192134, 41.640548, 0.000000), Hdg = 2.424271 <xxx>
+t = 12.00, ID = 16844800, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.928653, 41.851486, 18.000000), Hdg = 5.050713 <xxx>
+t = 12.00, ID = 16846848, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926609, 41.859408, 18.000000), Hdg = 4.670746 <xxx>
+t = 12.00, ID = 16783872, name = T-55, country = 0(Allies), LatLongAlt = (42.203706, 41.918447, 10.146554), Hdg = 2.429235 <xxx>
+t = 12.00, ID = 16785920, name = T-55, country = 0(Allies), LatLongAlt = (42.195367, 41.921551, 8.241483), Hdg = 2.429234 <xxx>
+t = 12.00, ID = 16787968, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164347, 42.132297, 15.099614), Hdg = 2.553587 <xxx>
+t = 12.00, ID = 16826624, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118802, 42.259521, 31.184052), Hdg = 4.622300 <xxx>
+t = 12.00, ID = 16828672, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.118858, 42.261138, 31.327188), Hdg = 5.280478 <xxx>
+t = 12.00, ID = 16830720, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118956, 42.261007, 31.245054), Hdg = 5.437240 <xxx>
+t = 12.00, ID = 16848640, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927465, 41.850750, 20.387085), Hdg = 1.221731 <xxx>
+t = 12.00, ID = 16848384, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927703, 41.850941, 20.281499), Hdg = 1.224506 <xxx>
+t = 12.00, ID = 16848128, name = M 818, country = 2(Enemies), LatLongAlt = (41.927187, 41.858850, 18.000000), Hdg = 6.143559 <xxx>
+t = 12.00, ID = 16847872, name = M978 HEMTT Tanker, country = 2(Enemies), LatLongAlt = (41.927109, 41.858076, 18.000000), Hdg = 6.143559 <xxx>
+t = 12.00, ID = 16847616, name = HEMTT TFFT, country = 2(Enemies), LatLongAlt = (41.927050, 41.857503, 18.000000), Hdg = 6.143559 <xxx>
+t = 12.00, ID = 16847360, name = M6 Linebacker, country = 2(Enemies), LatLongAlt = (41.930657, 41.859142, 18.000000), Hdg = 4.185446 <xxx>
+t = 14.00 Pilot Alt = 248.921394 LatLong = 41.927703 41.850941 Hdg= 70.164188 tas= 0.000075 <xxx>
+t = 14.00, ID = 16777984, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198411, 41.639474, 0.000000), Hdg = 4.601732 <xxx>
+t = 14.00, ID = 16845056, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.930578, 41.871684, 18.000000), Hdg = 1.118642 <xxx>
+t = 14.00, ID = 16847104, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926616, 41.859381, 21.394918), Hdg = 2.896614 <xxx>
+t = 14.00, ID = 16784128, name = T-55, country = 0(Allies), LatLongAlt = (42.202847, 41.938895, 10.218915), Hdg = 2.429236 <xxx>
+t = 14.00, ID = 16786176, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170696, 42.119468, 12.711155), Hdg = 0.000000 <xxx>
+t = 14.00, ID = 16788224, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165071, 42.129674, 14.727321), Hdg = 1.127347 <xxx>
+t = 14.00, ID = 16826880, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118795, 42.259645, 31.203133), Hdg = 4.601722 <xxx>
+t = 14.00, ID = 16828928, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117870, 42.261249, 32.021378), Hdg = 0.000000 <xxx>
+t = 14.00, ID = 16830976, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118999, 42.260955, 31.209557), Hdg = 5.539416 <xxx>
+t = 14.00, ID = 16778240, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.198369, 41.648145, 0.000000), Hdg = 1.430871 <xxx>
+t = 14.00, ID = 16845312, name = Hummer, country = 2(Enemies), LatLongAlt = (41.932250, 41.860363, 18.000000), Hdg = 3.941483 <xxx>
+t = 14.00, ID = 16782336, name = T-55, country = 0(Allies), LatLongAlt = (42.206067, 41.915878, 10.013263), Hdg = 2.429235 <xxx>
+t = 14.00, ID = 16784384, name = T-55, country = 0(Allies), LatLongAlt = (42.200492, 41.914534, 9.302426), Hdg = 2.429236 <xxx>
+t = 14.00, ID = 16786432, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168893, 42.115994, 13.227118), Hdg = 4.380589 <xxx>
+t = 14.00, ID = 16788480, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166972, 42.119757, 13.854740), Hdg = 4.622541 <xxx>
+t = 14.00, ID = 16827136, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118012, 42.259882, 31.769497), Hdg = 1.556701 <xxx>
+t = 14.00, ID = 16829184, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.117951, 42.261261, 31.966583), Hdg = 0.000000 <xxx>
+t = 14.00, ID = 16845568, name = Hummer, country = 2(Enemies), LatLongAlt = (41.926617, 41.859333, 18.000000), Hdg = 6.118037 <xxx>
+t = 14.00, ID = 16782592, name = T-55, country = 0(Allies), LatLongAlt = (42.202709, 41.907555, 8.650128), Hdg = 2.429236 <xxx>
+t = 14.00, ID = 16784640, name = T-55, country = 0(Allies), LatLongAlt = (42.200676, 41.915459, 9.459134), Hdg = 2.429236 <xxx>
+t = 14.00, ID = 16786688, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164717, 42.118705, 14.373638), Hdg = 4.119875 <xxx>
+t = 14.00, ID = 16788736, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169443, 42.123881, 13.453124), Hdg = 6.103332 <xxx>
+t = 14.00, ID = 16827392, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118004, 42.260012, 31.789713), Hdg = 1.531332 <xxx>
+t = 14.00, ID = 16829440, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117784, 42.261232, 32.078907), Hdg = 0.000000 <xxx>
+t = 14.00, ID = 16845824, name = Hummer, country = 2(Enemies), LatLongAlt = (41.927461, 41.863838, 18.000000), Hdg = 2.169215 <xxx>
+t = 14.00, ID = 16782848, name = T-55, country = 0(Allies), LatLongAlt = (42.203069, 41.901314, 7.802643), Hdg = 2.429235 <xxx>
+t = 14.00, ID = 16784896, name = T-55, country = 0(Allies), LatLongAlt = (42.201294, 41.916100, 9.641173), Hdg = 2.429236 <xxx>
+t = 14.00, ID = 16786944, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170816, 42.115408, 12.576155), Hdg = 5.221457 <xxx>
+t = 14.00, ID = 16788992, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.165324, 42.122040, 14.345192), Hdg = 3.517234 <xxx>
+t = 14.00, ID = 16827648, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117994, 42.260131, 31.809847), Hdg = 1.557272 <xxx>
+t = 14.00, ID = 16829696, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117885, 42.261092, 31.993139), Hdg = 0.000000 <xxx>
+t = 14.00, ID = 16846080, name = M-113, country = 2(Enemies), LatLongAlt = (41.924183, 41.864190, 18.000000), Hdg = 6.235603 <xxx>
+t = 14.00, ID = 16783104, name = T-55, country = 0(Allies), LatLongAlt = (42.205307, 41.911795, 9.593053), Hdg = 2.429236 <xxx>
+t = 14.00, ID = 16785152, name = T-55, country = 0(Allies), LatLongAlt = (42.201111, 41.914173, 9.344171), Hdg = 2.429236 <xxx>
+t = 14.00, ID = 16787200, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166554, 42.137454, 14.720903), Hdg = 1.603571 <xxx>
+t = 14.00, ID = 16789248, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.167797, 42.132211, 14.450558), Hdg = 0.849824 <xxx>
+t = 14.00, ID = 16827904, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.117982, 42.260257, 31.832798), Hdg = 1.502399 <xxx>
+t = 14.00, ID = 16829952, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117964, 42.261103, 31.940029), Hdg = 0.000000 <xxx>
+t = 14.00, ID = 16846336, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926595, 41.859385, 18.000000), Hdg = 0.945311 <xxx>
+t = 14.00, ID = 16783360, name = T-55, country = 0(Allies), LatLongAlt = (42.201471, 41.915157, 9.534965), Hdg = 2.429236 <xxx>
+t = 14.00, ID = 16785408, name = T-55, country = 0(Allies), LatLongAlt = (42.197499, 41.918604, 9.303934), Hdg = 2.429236 <xxx>
+t = 14.00, ID = 16787456, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.169272, 42.129212, 14.004634), Hdg = 0.555493 <xxx>
+t = 14.00, ID = 16789504, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.166116, 42.124021, 14.192931), Hdg = 3.194176 <xxx>
+t = 14.00, ID = 16826112, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118830, 42.259246, 31.134121), Hdg = 4.757800 <xxx>
+t = 14.00, ID = 16828160, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118345, 42.261132, 31.680798), Hdg = 0.000000 <xxx>
+t = 14.00, ID = 16830208, name = Ural-375, country = 0(Allies), LatLongAlt = (42.117796, 42.261079, 32.052982), Hdg = 0.000000 <xxx>
+t = 14.00, ID = 16777472, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.203538, 41.637619, 0.000000), Hdg = 6.283185 <xxx>
+t = 14.00, ID = 16846592, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.932143, 41.860482, 18.000000), Hdg = 3.141593 <xxx>
+t = 14.00, ID = 16783616, name = T-55, country = 0(Allies), LatLongAlt = (42.200759, 41.916370, 9.600081), Hdg = 2.429236 <xxx>
+t = 14.00, ID = 16785664, name = T-55, country = 0(Allies), LatLongAlt = (42.203574, 41.923407, 9.400670), Hdg = 2.429235 <xxx>
+t = 14.00, ID = 16787712, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.170549, 42.127393, 13.744644), Hdg = 6.283185 <xxx>
+t = 14.00, ID = 16789760, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.168361, 42.121341, 13.506642), Hdg = 5.210209 <xxx>
+t = 14.00, ID = 16826368, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118815, 42.259392, 31.160471), Hdg = 4.702669 <xxx>
+t = 14.00, ID = 16828416, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118456, 42.261148, 31.605621), Hdg = 0.000000 <xxx>
+t = 14.00, ID = 16830464, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118905, 42.261076, 31.288433), Hdg = 5.304801 <xxx>
+t = 14.00, ID = 16777728, name = ZSU-23-4 Shilka, country = 0(Allies), LatLongAlt = (42.192134, 41.640548, 0.000000), Hdg = 2.424271 <xxx>
+t = 14.00, ID = 16844800, name = Vulcan, country = 2(Enemies), LatLongAlt = (41.928653, 41.851486, 18.000000), Hdg = 5.050713 <xxx>
+t = 14.00, ID = 16846848, name = Soldier M4, country = 2(Enemies), LatLongAlt = (41.926609, 41.859408, 18.000000), Hdg = 4.670746 <xxx>
+t = 14.00, ID = 16783872, name = T-55, country = 0(Allies), LatLongAlt = (42.203706, 41.918447, 10.146554), Hdg = 2.429235 <xxx>
+t = 14.00, ID = 16785920, name = T-55, country = 0(Allies), LatLongAlt = (42.195367, 41.921551, 8.241483), Hdg = 2.429234 <xxx>
+t = 14.00, ID = 16787968, name = BRDM-2, country = 0(Allies), LatLongAlt = (42.164347, 42.132297, 15.099614), Hdg = 2.553587 <xxx>
+t = 14.00, ID = 16826624, name = Ural-4320-31, country = 0(Allies), LatLongAlt = (42.118802, 42.259521, 31.184052), Hdg = 4.622300 <xxx>
+t = 14.00, ID = 16828672, name = UAZ-469, country = 0(Allies), LatLongAlt = (42.118858, 42.261138, 31.327188), Hdg = 5.280478 <xxx>
+t = 14.00, ID = 16830720, name = Ural-375, country = 0(Allies), LatLongAlt = (42.118956, 42.261007, 31.245054), Hdg = 5.437240 <xxx>
+t = 14.00, ID = 16848640, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927465, 41.850750, 20.387085), Hdg = 1.221731 <xxx>
+t = 14.00, ID = 16848384, name = A-10C, country = 2(Enemies), LatLongAlt = (41.927703, 41.850941, 20.281487), Hdg = 1.224506 <xxx>
+t = 14.00, ID = 16848128, name = M 818, country = 2(Enemies), LatLongAlt = (41.927187, 41.858850, 18.000000), Hdg = 6.143559 <xxx>
+t = 14.00, ID = 16847872, name = M978 HEMTT Tanker, country = 2(Enemies), LatLongAlt = (41.927109, 41.858076, 18.000000), Hdg = 6.143559 <xxx>
+t = 14.00, ID = 16847616, name = HEMTT TFFT, country = 2(Enemies), LatLongAlt = (41.927050, 41.857503, 18.000000), Hdg = 6.143559 <xxx>
+t = 14.00, ID = 16847360, name = M6 Linebacker, country = 2(Enemies), LatLongAlt = (41.930657, 41.859142, 18.000000), Hdg = 4.185446 <xxx>
+Closing log file
