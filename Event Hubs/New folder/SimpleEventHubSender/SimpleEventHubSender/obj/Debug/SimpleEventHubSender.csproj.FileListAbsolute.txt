@@ -1,0 +1,10 @@
+C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\bin\Debug\SimpleEventHubSender.exe.config
+C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\bin\Debug\SimpleEventHubSender.exe
+C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\bin\Debug\SimpleEventHubSender.pdb
+C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\obj\Debug\SimpleEventHubSender.csprojResolveAssemblyReference.cache
+C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\obj\Debug\SimpleEventHubSender.exe
+C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\obj\Debug\SimpleEventHubSender.pdb
