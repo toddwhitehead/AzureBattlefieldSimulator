@@ -8,3 +8,6 @@ C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHu
 C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\obj\Debug\SimpleEventHubSender.csprojResolveAssemblyReference.cache
 C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\obj\Debug\SimpleEventHubSender.exe
 C:\Users\Todd\Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\obj\Debug\SimpleEventHubSender.pdb
+D:\My Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\bin\Debug\SimpleEventHubSender.exe.config
+D:\My Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\obj\Debug\SimpleEventHubSender.exe
+D:\My Documents\GitHub\StreamingDemo\Event Hubs\New folder\SimpleEventHubSender\SimpleEventHubSender\obj\Debug\SimpleEventHubSender.pdb

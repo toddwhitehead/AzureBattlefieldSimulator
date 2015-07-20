@@ -112,3 +112,6 @@ C:\Users\Todd\Documents\GitHub\StreamingDemo\DataCollectionClient\TestbedClient\
 C:\Users\Todd\Documents\GitHub\StreamingDemo\DataCollectionClient\TestbedClient\SensorEventGenerator\obj\Debug\SensorEventGenerator.csprojResolveAssemblyReference.cache
 C:\Users\Todd\Documents\GitHub\StreamingDemo\DataCollectionClient\TestbedClient\SensorEventGenerator\obj\Debug\SensorEventGenerator.exe
 C:\Users\Todd\Documents\GitHub\StreamingDemo\DataCollectionClient\TestbedClient\SensorEventGenerator\obj\Debug\SensorEventGenerator.pdb
+D:\My Documents\GitHub\StreamingDemo\DataCollectionClient\TestbedClient\SensorEventGenerator\bin\Debug\SensorEventGenerator.exe.config
+D:\My Documents\GitHub\StreamingDemo\DataCollectionClient\TestbedClient\SensorEventGenerator\obj\Debug\SensorEventGenerator.exe
+D:\My Documents\GitHub\StreamingDemo\DataCollectionClient\TestbedClient\SensorEventGenerator\obj\Debug\SensorEventGenerator.pdb
