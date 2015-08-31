@@ -82,9 +82,17 @@ Public Class Form1
         sensorData.Latitude = CDec(data(4).Split("=")(1))
         sensorData.Longitude = CDec(data(5).Split("=")(1))
         sensorData.Altitude = CDec(data(6).Split("=")(1))
+        'item 7 is in radians, and we're not doing anything with it ... yet
+        Dim typeData As String = data(8).Split("=")(1).ToString.Trim
+        Dim typeIds() As String = typeData.Split(".")
+
+        sensorData.Type1 = typeIds(0)
+        sensorData.Type2 = typeIds(1)
+        sensorData.Type3 = typeIds(2)
+        sensorData.Type4 = typeIds(3)
 
         Try
-            'hubEvent.Send(sensorData)
+            If chkSend.Checked = True Then hubEvent.Send(sensorData)
             msgSent += 1
 
         Catch ex As Exception

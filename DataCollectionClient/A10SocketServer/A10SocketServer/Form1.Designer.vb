@@ -30,6 +30,7 @@ Partial Class Form1
         Me.lblErr = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
+        Me.chkSend = New System.Windows.Forms.CheckBox()
         Me.SuspendLayout()
         '
         'txtLog
@@ -98,6 +99,18 @@ Partial Class Form1
         '
         Me.OpenFileDialog1.FileName = "OpenFileDialog1"
         '
+        'chkSend
+        '
+        Me.chkSend.AutoSize = True
+        Me.chkSend.Checked = True
+        Me.chkSend.CheckState = System.Windows.Forms.CheckState.Checked
+        Me.chkSend.Location = New System.Drawing.Point(81, 20)
+        Me.chkSend.Name = "chkSend"
+        Me.chkSend.Size = New System.Drawing.Size(51, 17)
+        Me.chkSend.TabIndex = 7
+        Me.chkSend.Text = "Send"
+        Me.chkSend.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -110,6 +123,7 @@ Partial Class Form1
         Me.Controls.Add(Me.lblMsg)
         Me.Controls.Add(Me.btnShowLog)
         Me.Controls.Add(Me.txtLog)
+        Me.Controls.Add(Me.chkSend)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
@@ -127,5 +141,6 @@ Partial Class Form1
     Friend WithEvents lblErr As System.Windows.Forms.Label
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents OpenFileDialog1 As System.Windows.Forms.OpenFileDialog
+    Friend WithEvents chkSend As System.Windows.Forms.CheckBox
 
 End Class

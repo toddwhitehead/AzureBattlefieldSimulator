@@ -8,4 +8,9 @@
     Public Longitude As Decimal
     Public Altitude As Integer
 
+    Public Type1 As Integer
+    Public Type2 As Integer
+    Public Type3 As Integer
+    Public Type4 As Integer
+
 End Class
