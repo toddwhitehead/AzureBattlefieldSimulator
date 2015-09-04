@@ -115,3 +115,6 @@ C:\Users\Todd\Documents\GitHub\StreamingDemo\DataCollectionClient\TestbedClient\
 D:\My Documents\GitHub\StreamingDemo\DataCollectionClient\TestbedClient\SensorEventGenerator\bin\Debug\SensorEventGenerator.exe.config
 D:\My Documents\GitHub\StreamingDemo\DataCollectionClient\TestbedClient\SensorEventGenerator\obj\Debug\SensorEventGenerator.exe
 D:\My Documents\GitHub\StreamingDemo\DataCollectionClient\TestbedClient\SensorEventGenerator\obj\Debug\SensorEventGenerator.pdb
+F:\projects\github\AzureBattlefieldSimulator\DataCollectionClient\TestbedClient\SensorEventGenerator\bin\Debug\SensorEventGenerator.exe.config
+F:\projects\github\AzureBattlefieldSimulator\DataCollectionClient\TestbedClient\SensorEventGenerator\obj\Debug\SensorEventGenerator.exe
+F:\projects\github\AzureBattlefieldSimulator\DataCollectionClient\TestbedClient\SensorEventGenerator\obj\Debug\SensorEventGenerator.pdb
