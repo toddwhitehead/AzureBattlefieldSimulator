@@ -1,0 +1,20 @@
+name, imageurl, threat, rating
+'BRDM-2', 'https://a10demostorage.blob.core.windows.net/images/BRDM-2.jpg', 1, 5
+'9K14', 'https://a10demostorage.blob.core.windows.net/images/9K14.jpg', 1, 2
+'A-10C', 'https://a10demostorage.blob.core.windows.net/images/A10-C.jpg', 1, 8
+'BGM-71E', 'https://a10demostorage.blob.core.windows.net/images/BGM-71E.jpg', 1, 4
+'BMP-1', 'https://a10demostorage.blob.core.windows.net/images/BMP-1.jpg', 1, 5
+'BMP-3', 'https://a10demostorage.blob.core.windows.net/images/BGM-3.jpg', 1, 6
+'BTR-80', 'https://a10demostorage.blob.core.windows.net/images/BTR-80.jpg', 1, 7
+'Hummer', 'https://a10demostorage.blob.core.windows.net/images/hummer.jpg', 1, 4
+'KH-25ML', 'https://a10demostorage.blob.core.windows.net/images/KH-25ML.jpg', 1, 5
+'M1045 HMMWV TOW', 'https://a10demostorage.blob.core.windows.net/images/M1045 HMMWV TOW.jpg', 1, 3
+'M-113', 'https://a10demostorage.blob.core.windows.net/images/M-113.jpg', 0, 0
+'M1134 Stryker ATGM', 'https://a10demostorage.blob.core.windows.net/images/M1134 Stryker ATGM.jpg', 1, 3
+'M-2 Bradley', 'https://a10demostorage.blob.core.windows.net/images/M-2 Bradley.jpg', 1, 2
+'OH-58D', 'https://a10demostorage.blob.core.windows.net/images/OH-58D.jpg', 1, 4
+'outpost_road', 'https://a10demostorage.blob.core.windows.net/images/outpost.jpg', 0, 0
+'S-25L', 'https://a10demostorage.blob.core.windows.net/images/S-25L.jpg', 1, 7
+'Soldier M249', 'https://a10demostorage.blob.core.windows.net/images/Soldier M249.jpg', 1, 2
+'Soldier M4', 'https://a10demostorage.blob.core.windows.net/images/Soldier M4.jpg', 1, 2
+'Su-25', 'https://a10demostorage.blob.core.windows.net/images/S-25L.jpg', 1, 7
